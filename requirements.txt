@@ -6,3 +6,6 @@ lxml
 matplotlib
 seaborn
 scikit-learn
+openpyxl
+sqlalchemy
+rise
